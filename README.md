@@ -9,7 +9,6 @@ Student | Aspiring Web Developer
 - I’m a student passionate about technology and the web.
 - I enjoy exploring and learning new and complex things—there’s always something exciting around the corner!
 - Currently honing my skills in:
-  - HTML
   - CSS
   - JavaScript
 
