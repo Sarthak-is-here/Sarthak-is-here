@@ -28,7 +28,7 @@ Student | Aspiring Web Developer
 
 ---
 
-A new Project coming soom
+A new Project coming soon.
 
 ---
 **"डेंजर हैं हम"**
