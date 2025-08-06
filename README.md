@@ -1,37 +1,23 @@
-# Hi there, I'm Sarthak
+# Hello, I'm Sarthak.
 
-Student | Aspiring Web Developer
+## About Me: Student | Future Web Developer
 
----
+I'm a student that has a strong interest in the internet and technology.  
+There's always something new and interesting to discover, and I like to learn new and complicated things!  
+I'm currently improving my JavaScript skills.
 
-### About Me
+## My Current Projects
 
-- I’m a student passionate about technology and the web.
-- I enjoy exploring and learning new and complex things—there’s always something exciting around the corner!
-- Currently honing my skills in:
-  - JavaScript
+- constructing imaginative and dynamic websites.
+- trying out novel concepts and pushing myself with tasks.
 
----
+## Interests & Hobbies
 
-### What I’m Working On
+- exploring novel ideas and technology.
+- always looking to increase my knowledge and abilities.
 
-- Building creative and interactive web pages.
-- Experimenting with new ideas and challenging myself with projects.
+There will soon be a new project.
 
----
+> "डेंजर हैं हम"
 
-### Hobbies & Interests
-
-- Diving into new technologies and concepts.
-- Constantly seeking to expand my knowledge and skill set.
-
----
-
-A new Project coming soon.
-
----
-**"डेंजर हैं हम"**
-
----
-
-Thanks for stopping by my profile!
+I appreciate you looking at my profile!
